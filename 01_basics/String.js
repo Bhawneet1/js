@@ -38,3 +38,7 @@ const url="https://bhawneet.com/bhawneet%20"
 console.log(url.replace('%20','-'))
 
 console.log(url.includes('bhawneet'))
+
+
+const n="helo-how-are-you"
+console.log(n.split('-'))
