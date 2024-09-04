@@ -34,7 +34,7 @@ console.log(Math.min(10,20,30,40,50,60))
 console.log(Math.max(10,20,30,40,50,60));
 
 console.log(Math.random())//Random value between 0-1
-console.log(Math.floor(Math.random()*10 )+1);//*10 for value between 0 and 10 then +1 for 1-10
+console.log(Math.floor(Math.random()*10 )+1);//*10 for value between 0 and 10 then and also floor round of 0.1 something else to 0 +1 for 1-10
 
 
 const min=10
